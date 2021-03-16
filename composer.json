@@ -1,0 +1,16 @@
+{
+  "name": "spryker-feature/marketplace-wishlist",
+  "description": "Marketplace Wishlist [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.3"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "202107.x-dev"
+    }
+  }
+}
