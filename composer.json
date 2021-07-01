@@ -1,16 +1,18 @@
 {
-  "name": "spryker-feature/marketplace-wishlist",
-  "description": "Marketplace Wishlist [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/marketplace-wishlist",
+    "description": "Marketplace Wishlist [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/merchant-product-offer-wishlist": "^0.2.0",
+        "spryker/merchant-product-wishlist": "^0.1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
     }
-  }
 }
