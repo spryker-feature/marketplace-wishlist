@@ -7,6 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.3",
+        "spryker-shop/wishlist-page": "^1.9.0",
         "spryker/merchant-product-offer-wishlist": "^0.2.1",
         "spryker/merchant-product-wishlist": "^0.1.0",
         "spryker/wishlist": "^8.3.0"
