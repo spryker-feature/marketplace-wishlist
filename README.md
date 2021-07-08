@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Wishlist
 
-
+With the Marketplace Wishlist feature, the customers can track and save merchant offers and products they wish to purchase through the wishlist. The customers can create multiple wishlists and customize their names.
 
 ## Installation
 
