@@ -17,5 +17,9 @@
         "branch-alias": {
             "dev-master": "202107.x-dev"
         }
+    },
+    "suggest": {
+        "spryker-feature/marketplace-merchant": "Recommended feature dependency.",
+        "spryker-feature/wishlist": "Recommended feature dependency."
     }
 }
