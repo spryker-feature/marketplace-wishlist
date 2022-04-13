@@ -15,4 +15,4 @@ composer require spryker-feature/marketplace-wishlist
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [MerchantProductOfferWishlistRestApi ^1.0.0](https://github.com/spryker/merchant-product-offer-wishlist-rest-api) (Glue)
+- [MerchantProductOfferWishlistRestApi ^1.1.0](https://github.com/spryker/merchant-product-offer-wishlist-rest-api) (Glue)
