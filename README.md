@@ -2,6 +2,8 @@
 
 With the Marketplace Wishlist feature, the customers can track and save merchant offers and products they wish to purchase through the wishlist. The customers can create multiple wishlists and customize their names.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/shopping-list-and-wishlist/202307.0/marketplace/marketplace-wishlist-feature-overview.html)
+
 ## Installation
 
 ```
